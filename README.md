@@ -1,6 +1,8 @@
 inv-geod-script
-This is a Linux bash script to get distances and bearing between different
+
+invgeod.sh is is a Linux bash script to get distances and bearing between different
 geolocations, and kml and gpx files.
+
 This script is compatible with Red-Hat&Debian linux flavours.
 
 The INPUT argument is a text file with a decimal "lat,lon" location per line.
